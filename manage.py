@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import pip
+
 import sys
 import os
 
